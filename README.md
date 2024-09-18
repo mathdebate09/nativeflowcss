@@ -9,6 +9,8 @@
 </div>
 
 ## Installation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmathdebate09%2Fnativeflowcss.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmathdebate09%2Fnativeflowcss?ref=badge_shield)
+
 
 ```sh
 npm install nativeflowcss
@@ -27,3 +29,6 @@ MIT
 ---
 
 Made with &hearts; using [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmathdebate09%2Fnativeflowcss.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmathdebate09%2Fnativeflowcss?ref=badge_large)
